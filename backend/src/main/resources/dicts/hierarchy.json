@@ -1,0 +1,16 @@
+{
+    "Animais": {
+        "Mamíferos": {
+            "Cachorro": {},
+            "Gato": {}
+        },
+        "Répteis": {
+            "Cobra": {},
+            "Lagarto": {}
+        },
+        "Aves": {
+            "Papagaio": {},
+            "Pombo": {}
+        }
+    }
+}
